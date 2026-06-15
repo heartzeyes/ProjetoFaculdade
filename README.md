@@ -16,14 +16,6 @@ O sistema permite:
 - Exibir analises simples sobre vacinacao.
 - Demonstrar uso de estruturas de dados em Java antes da persistencia no banco.
 
-O sistema nao possui:
-
-- Login.
-- Controle de permissoes.
-- Interface grafica.
-- Frontend web.
-- Integracao com sistemas externos.
-
 ## Tecnologias
 
 - Java 17.
